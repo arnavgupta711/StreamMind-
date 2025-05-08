@@ -1,3 +1,5 @@
+Arnav Gupta - RA2211027010125
+
 # StreamMind
 
 StreamMind is an advanced real-time Quality of Service (QoS) management system for live video game streaming platforms, leveraging big data analytics, deep neural networks (DNN), and BERT-based sentiment analysis. The goal is to dynamically optimize streaming quality based on real-time user sentiment, engagement, and network conditions.
